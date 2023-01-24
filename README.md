@@ -28,6 +28,4 @@ A client asked for a list of tradable cryptocurrencies and wants to be able to p
 
 ![3D_ScatterPlot.png](3D_ScatterPlot.png)
 
-![Tradable_cryptocurrencies.png](Tradable_cryptocurrencies.png)
-
 ![Figure2.png](Figure2.png)
